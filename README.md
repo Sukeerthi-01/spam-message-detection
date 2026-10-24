@@ -45,4 +45,7 @@ The project uses TF-IDF to convert text into numerical features and Multinomial 
 ## Future Improvements
 - Train using a larger public SMS spam dataset.
 - Improve model evaluation.
-- Add screenshots and additional test cases.
+  <img width="948" height="591" alt="image" src="https://github.com/user-attachments/assets/f2f3ee30-e294-4a8f-82d2-c008b6290bab" />
+
+<img width="921" height="342" alt="Screenshot 2026-10-24 213352" src="https://github.com/user-attachments/assets/475f6645-f907-43bd-85c9-c8b0e92e72a7" />
+
